@@ -1,9 +1,9 @@
 # Strategy-Pattern-with-Swift
 Here is a simple example of Strategy design pattern in Swift 
 
-# The Strategy pattern lets you indirectly alter the object's behavior at runtime by associating it with different sub-objects which can perform specific sub-tasks in different ways. Use the Strategy when you have a lot of similar classes that only differ in the way they execute some behavior.
-## or simply we use this pattern to avoid the large if / else conditions.
-# You can also download the demo project in Playground.
+## The Strategy pattern lets you indirectly alter the object's behavior at runtime by associating it with different sub-objects which can perform specific sub-tasks in different ways. Use the Strategy when you have a lot of similar classes that only differ in the way they execute some behavior.
+# or simply we use this pattern to avoid the large if / else conditions.
+## You can also download the demo project in Playground.
     
     protocol TranslationStrategy {
         func translate(text: String)
