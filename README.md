@@ -1,4 +1,4 @@
-# Strategy-Pattern-with-Swift
+# Strategy Pattern with Swift
 Here is a simple example of Strategy design pattern in Swift 
 
 ## The Strategy pattern lets you indirectly alter the object's behavior at runtime by associating it with different sub-objects which can perform specific sub-tasks in different ways. Use the Strategy when you have a lot of similar classes that only differ in the way they execute some behavior.
